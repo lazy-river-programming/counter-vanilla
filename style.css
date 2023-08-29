@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: lightblue;
+}
+
+button {
+  font-size: 3rem;
+  border-radius: 10px;
+  border: none;
+  background-color: slategray;
+  color: whitesmoke;
+  padding: 20px;
+  font-family: monospace;
+}
